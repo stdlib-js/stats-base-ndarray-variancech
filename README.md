@@ -300,7 +300,7 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [@chan:1983a]: https://doi.org/10.1080/00031305.1983.10483115
 
-[@schubert:2018a]: https://doi.org/10.1145/3221664.3221674
+[@schubert:2018a]: https://doi.org/10.1145/3221269.3223036
 
 </section>
 
