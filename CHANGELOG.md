@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-04)
+## Unreleased (2026-05-12)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b43b02f`](https://github.com/stdlib-js/stdlib/commit/b43b02f9fd07945537028912b11e97858eee4ef6) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`5a50a24`](https://github.com/stdlib-js/stdlib/commit/5a50a24c0187fa2eff6c40ed60db7e9281406990) - **docs:** fix broken Markdown link [(#10733)](https://github.com/stdlib-js/stdlib/pull/10733) _(by travisBREAKS)_
 
 </details>
@@ -36,8 +37,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   travisBREAKS
 
 </section>
